@@ -1,0 +1,17 @@
+@import "../Global/scss/inc/variables";
+
+.pod {
+  &-title {
+    font-size: 28px;
+  }
+
+  &-text {
+    font-size: 14px;
+    line-height: 1.2;
+  }
+
+  &-btn {
+    background-color: $color-green;
+    color: $color-white;
+  }
+}

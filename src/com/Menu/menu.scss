@@ -1,0 +1,19 @@
+@import "../Global/scss/inc/variables";
+
+.menu {
+  &-item {
+    display: inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+
+  &-link {
+    font-size: 14px;
+    color: $color-white;
+    text-decoration: none;
+    
+    &:hover {
+      color: darken($color-white, 10%);
+    }
+  }
+}

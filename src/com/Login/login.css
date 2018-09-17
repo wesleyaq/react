@@ -1,0 +1,11 @@
+.login {
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+}
+
+.lgn-row {
+  display: block;
+  margin-top: 15px;
+}

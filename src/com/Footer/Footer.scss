@@ -1,0 +1,9 @@
+@import "../Global/scss/inc/variables";
+
+.ft {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 10px;
+  background-color: $color-gray;
+}

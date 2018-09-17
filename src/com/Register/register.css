@@ -1,0 +1,15 @@
+.regist {
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+}
+
+.reg-row {
+  display: block;
+  margin-top: 15px;
+}
+
+.reg-label {
+  display: block;
+}
